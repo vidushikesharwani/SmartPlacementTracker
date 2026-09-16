@@ -123,7 +123,7 @@ The application follows a modular layered architecture.
 |                 File Storage                     |
 |          students.txt | companies.txt            |
 +--------------------------------------------------+
-
+'''
 
 ## 7. Design Rationale
 
