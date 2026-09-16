@@ -1,0 +1,1 @@
+J102|AERO|IT|JJ102|DEVELOPER|8.0|Python,SQL|Git,Python
