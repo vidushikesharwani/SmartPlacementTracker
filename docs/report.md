@@ -124,6 +124,22 @@ The application follows a modular layered architecture.
 |          students.txt | companies.txt            |
 +--------------------------------------------------+
 ```
+The following design artifacts are included as part of the project documentation:
+
+- System Architecture Diagram
+- Workflow Diagram
+- Use Case Diagram
+- Class Diagram
+- Sequence Diagram
+- Storage Design
+
+### 6.1 Class Diagram
+
+The UML class diagram shows the main classes of the application, their attributes, important methods, inheritance relationships, and associations between different components.
+
+The complete class diagram is documented in:
+
+`docs/class_diagram.md`
 
 ## 7. Design Rationale
 
