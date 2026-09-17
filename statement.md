@@ -4,13 +4,13 @@
 
 Students often find it difficult to understand their placement readiness and identify suitable job opportunities based on their academic performance, technical skills, projects, certifications and assessment scores.
 
-The Smart Placement & Skill Tracker is a Java-based command-line application that helps students maintain their placemeent profile, analyze their readiness, identify skill gaps and find companies and job roles that match their profile.
+The Smart Placement & Skill Tracker is a Javabased commandline application that helps students maintain their placemeent profile, analyze their readiness, identify skill gaps and find companies and job roles that match their profile.
 
-Placement administrators can manage student records, companies and job roles and generate basic placement statistics and reports.
+Placement administraitors can manage student records, companies and job roles and generate basic placement statistics and reports.
 
-## Scope
+## Scope of the Project
 
-The system covers student profile management, skill management, project and certification management, placement readiness analysis, company and job role managment, eligibilty checking, company matching, skill gap analysis, and basic placement reports.
+The system covers student profile management, skill management, project and certification management, placement readiness analysis, company and job role managment, eligibilty checking, companny matching, skill gap analysis, and basic placement reports.
 
 The application is designed as a standalone command-line Java application using file-based data storage.
 
